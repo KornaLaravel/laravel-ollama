@@ -1,6 +1,8 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/cloudstudio/ollama-laravel.svg?style=flat-square)](https://packagist.org/packages/cloudstudio/ollama-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/cloudstudio/ollama-laravel.svg?style=flat-square)](https://packagist.org/packages/cloudstudio/ollama-laravel)
 
+> **Need production AI systems?** We build AI agents, RAG pipelines, and Claude integrations for teams. [cloudstudio.es/for-developers](https://cloudstudio.es/for-developers)
+
 # Ollama-Laravel Package
 
 Ollama-Laravel is a Laravel package that provides seamless integration with the [Ollama API](https://github.com/jmorganca/ollama). It enables you to harness the power of local AI models for various tasks including text generation, vision analysis, chat completion, embeddings, and more. This package is perfect for developers looking to integrate AI capabilities into their Laravel applications without relying on external API services.
